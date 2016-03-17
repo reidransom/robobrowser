@@ -9,7 +9,7 @@ from setuptools import find_packages
 
 
 REQUIREMENTS = [
-    'beautifulsoup4>=4.3.2',
+    'beautifulsoup4>=4.4.1',
     'requests>=2.6.0',
     'six>=1.9.0',
     'Werkzeug>=0.10.4',
